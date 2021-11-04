@@ -44,7 +44,7 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whitehatcrusher2/Its-me-ADARSH)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fmc-Crasher/Spirex-v3)
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AmeenSer/Miss-helena?v=1)
   
