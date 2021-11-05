@@ -1,14 +1,14 @@
-    ✰  ꧁𓂸𝐌𝐢𝐬𝐬 - 𝐇𝐞𝐥𝐞𝐧𝐚𓂸꧂  ✰
+𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐏𝐈𝐑𝐄𝐗-𝐕𝟑  𝐁𝐘  𝐌𝐀²𝐃 〄
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Welcome+to+Miss+Helena+WA+Bot+repo.;Created+by+Rafi+and+Ameen;This+is+a+Bgm+stickerbot;With+more+features;Thanks+for+visiting+our+git)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=0000FF&lines=WELCOME+TO+SPIREX+V3+BOT+RESPO.;CREATED+BY+𝐌𝐀²𝐃+〄;ITS+AN+𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋+𝐁𝐎𝐓+;NOT+A+SPAMMING+BOT+😌;𝐓𝐇𝐀𝐍𝐊𝐒+💖+FOR+VISITING+OUR+𝐆𝐈𝐓)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/V0nSAWg.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+<img src="https://i.imgur.com/ihizNpz.jpeg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
 <a href="https://github.com/Luciferking1"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
