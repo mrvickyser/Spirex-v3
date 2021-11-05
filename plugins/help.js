@@ -40,7 +40,7 @@ WhatsAlexa.addCommand({pattern: 'help', fromMe: whb, dontAddCommandList: true}, 
 
           contentText: "Hi How Are You ?",
 
-          footerText: 'owner Rafi,Ameen © \n test 1 \n teats 2 \n teast3',
+          footerText: 'owner waitada\n test 1 \n teats 2 \n teast3',
 
           buttons: buttons,
 
