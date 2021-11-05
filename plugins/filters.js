@@ -63,7 +63,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/ameen.m
         if (!!message.mention && message.mention[0] == '919207253061@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Achumon.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['Achumon','ith','🔥','bye','para','Para','mukesh','Mukesh','Hlo','hlo','njan','Njan','muthe','Muthe','Xxxtentacion','alone','Alone','Converting','potta','Potta','menu','welcome','Welcome','vannu','Vannu','Remove','kyat','rip','remix','Remix','Rip','Myr','dj','Dj','pever','Pever','Oo','XXXTENTACION','Love u','hate','Hate','Njan vannu','tto','Audio','audio','veno','xxxtentacion','Veno','nanban','Ayye','Ronaldo','ronaldo','Kundan','katha','hy','vaanam','Vaanam','Vanam','Ivan','ivan','Annan','annan','Thayoli','umbi','Umbi','Noob','Single','noob','single','Nanban','Achu','achu','Ok','Ameen','Shiva','ok','Enth','ameen','enth','nth','Edi','Uff','Dey','Cr7','Poda','Poli','Pm','Plzz','girl','Oi','mp3','nirth','Nirth','good nyt','birthday','HBD','bdy','Birthday','Pattula','Good night','Nth','Mood','Please','Mm','Dance','Ith','thech','caption','Polikk','Aah','Good nyt','Mrng','alive','Di','Bro','avan','converting','Allah','bg','help','Hii','odiko','oho','killadi','oo','Fuck','invite','Hi','love','Bgm','Owner','Group','list','man','Nanba','oii','poda','yo','sad','work','set','remove','thukum','poko','myre,','kundan','xmedia','commands','Boss','vava','Myre','Lalitha','start','sing','Hello','Bye','warn','Baby','who','find','power','myr','vanam','tagall','Re entry','pass','patti','phaa','mone','look','bor','try','owner','luv','feel','romam','potte','no replay','bgm','vijay','poli','Da','Vazha','Rafi','rafi','Helena','helena','kunna','Kunna','Sorry','Sry','sorry','sry','Bot','bot','song','Uyir','uyir','myre','thayoli','Love','Hy','sed','Sed','Sad','Ayn']
+const array = ['Achumon','Sed','Ayn']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -96,7 +96,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/menti
 await message.client.sendMessage(message.jid, fs.readFileSync('Amalserv2/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['Hi','pro','coming','alive','list','go','menu','koii','update','wait','Mrng','Amalser','like','bad','amal','nice','link','Farhan','Hii','ok','myr','set','ayo','i want','help','working','life','Da','fix','Amalsir','promiss','sed','old','fek','Kozhi','ee','single','one side','muthe','Aliya','audio','oh','something','Myre','caption','di','love','you','update now','super','iwa','erorr','status','Dii','feel','kuppy','bst','maduthu','niyo','what','but y','chakare','mone','uyir','friends','owner','shit','fan','fans','Broken','E bullet','Hello','over','ayikotte','kollam','muthe','propose','rain','kozhi']
+const array = ['like','muthe','rain']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -128,7 +128,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/mention
 await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/stickameen.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
-const array = ['achu','Achu','Ok','ok','Sorry','sorry','nna','Nna','name','Name','myre','Myre','inna','Inna','Malare','git','Ameen','chaya','escape','truth','hm','pottan','oh','nokk','nude','oo','hi','kali','Remove','bot','lost','copy','Da','come','sex','help','sorry','podi','nee','done','kalam','Di','Dey','oho','Welcome','Nanba','ee','Hello','para','kindi','list','check','podey','odiko','save','Hii','oii','sad','sed','thenga','bad','run','remove','love','kick','enth','alive','amal','menu','ella','unmute','mute','Ayye','pm','Hhee','Patti','Chumma paranjatha','Myr','rply','selfie','ban','Sad','fuk','Engenend','Pattula','sticker','da','kittiyo','Comedy','resendo','Poda','mrng','Bot','Rafi','rafi']
+const array = ['crasher','FF','abru']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
