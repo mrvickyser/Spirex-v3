@@ -11,33 +11,33 @@
 <img src="https://i.imgur.com/ihizNpz.jpeg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="300"/>
 </p>
   <p align="center">
-<a href="https://github.com/Fmc-Crasher"><img title="Crasher" src="https://img.shields.io/badge/Adarsh-Abraham-cyberchekuthan/Adarsh_v3?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/white_hat_crasher?r=nametag"><img title="Crasher" src="https://img.shields.io/badge/Adarsh-Abraham-cyberchekuthan/Adarsh_v3?color=blue&style=for-the-badge&logo=instagram"></a>
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐑𝐚𝐟𝐢
+SPECIAL THANKS TO 𝐀𝐁𝐑𝐔 & 𝐌𝐀𝐓𝐇𝐄𝐖𝐒
     <br>
        | © |
-        Reserved |
+        𝐌𝐀²𝐃 |
     <br> 
 </p>
 
 ##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
+  <h3 align="center"> 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿:</h3>
 <p align="center">
-CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
+TAP THE ICON AND JOIN ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/DY648JIMzr9FwXpy1EsYhd" target="blank"><img align="center" src="https://i.imgur.com/URkrOnx.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 
 
-## Setup
+## SETUP
 <div align="center"> 
 
 
-## Click Youtube logo to Watch full video and findout password in this video 👇
+## TAP YT LOGO TO FIND PASSWORD
 
  [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/fd0KPblop-k)
 
@@ -46,26 +46,26 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fmc-Crasher/Spirex-v3)
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AmeenSer/Miss-helena?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@A)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Fmc-Crasher/Spirex-v3
+$ cd crasher
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node crasher.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/cyberchekuthan/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Fmc-Crasher/Spirex-v3
+$ cd crasher
 $ npm i
-$ node julie.js
+$ node crasher.js
 ```
 
 ----
@@ -87,7 +87,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JXwRmc2lKT4IwauZnprpX5)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
@@ -101,12 +101,12 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
+## 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![ADARSH AS CRASHER](https://i.imgur.com/ihizNpz.jpeg?size=100)](https:link) | [![AMALSER](https://github.com/cyberchekuthan.png?size=100)](https://github.com/cyberchekuthan) |  [![MATHEWS](https://i.imgur.com/qVHSihd.jpeg?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/cyberchekuthan) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[ADARSH-CRASHER](https://github.com/farhan-dqz) | [AMALSER](https://github.com/cyberchekuthan) | [MATHEWS](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
