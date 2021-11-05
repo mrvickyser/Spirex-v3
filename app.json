@@ -18,7 +18,8 @@
         },
          "YT_PASSWORD": {
             "description": "For Password Ask Group.",
-            "required": "https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH"
+            "required": true,
+            "value": "https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH"
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
