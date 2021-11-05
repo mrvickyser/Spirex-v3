@@ -104,9 +104,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
   <div align="center">
     
-  [![ADARSH AS CRASHER](https://i.imgur.com/ihizNpz.jpeg?size=100)](https://i.imgur.com/O5mRu2I.jpeg?size=100) | [![AMALSER](https://i.imgur.com/O5mRu2I.jpeg?size=100)](https://github.com/cyberchekuthan) |  [![MATHEWS](https://i.imgur.com/qVHSihd.jpeg?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![ADARSH AS CRASHER](https://i.imgur.com/ihizNpz.jpeg?size=100)](https://i.imgur.com/O5mRu2I.jpeg?size=100) | [![AMALSER](https://i.imgur.com/O5mRu2I.jpeg?size=100)](https://github.com/cyberchekuthan) |  [![MATHEWS](https://i.imgur.com/qVHSihd.jpeg?size=100)](https://github.com/AI-VIKI) | [![KANTHARI](https://i.imgur.com/lgxkvK7.jpeg?size=100)](https://i.imgur.com/lgxkvK7.jpeg) 
 ----|----|----|----
-[ADARSH-CRASHER](https://github.com/farhan-dqz) | [ABRU-369](https://i.imgur.com/LIdGqR9.png) | [MATHEWS](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[ADARSH-CRASHER](https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH) | [ABRU-369](https://i.imgur.com/LIdGqR9.png) | [MATHEWS](https://github.com/AI-VIKI) | [KANTHARI](https://i.imgur.com/lgxkvK7.jpeg) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
