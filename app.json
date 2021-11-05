@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "For Password Ask Group.",
+            "description": "For Password Ask Group.join Usinging the link Given below",
             "required": true,
             "value": "https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH"
         },
