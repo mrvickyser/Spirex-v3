@@ -132,8 +132,8 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-┣𝕾⃝🌺 *Antilink* : ` + antilink + `
-┣𝕾⃝🌺 *pinky* : ` + pinky + `
+┣𝕾⃝🌺 *ᴀɴᴛɪʟɪɴᴋ* : ` + antilink + `
+┣𝕾⃝🌺 *ᴀʟ ᴄʜᴀᴛ* : ` + pinky + `
 ┣𝕾⃝🌺 *ᴀᴜᴛᴏ ʙɪᴏ* : ` + autobio + `
 ┣𝕾⃝🌺 *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ
 ┣𝕾⃝🌺 *ᴘʀᴇғɪx* : *. ; !*
@@ -147,7 +147,7 @@ if (config.ANTİLİNK == 'false') antilink = 'Off'
 ╭──────────────────╯
 │ ◩ Bot Name: Spirex
  ──────────────────╯
-*To check update .update   To update Bot .update now*\n\n*githublink* : Is Private Mwonu
+*To check update .update   To update Bot .update now*\n\n*githublink* : https://github.com/Fmc-Crasher/Spirex-v3
 `}) 
 
 }));
