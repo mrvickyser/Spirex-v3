@@ -39,7 +39,7 @@ TAP THE ICON AND JOIN ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜ�
 
 ## TAP YT LOGO TO FIND PASSWORD
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/fdlop-k)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/EyfVigi2GUw)
 
 
   ### Simple Method
