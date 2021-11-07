@@ -45,7 +45,7 @@ else if (Config.WORKTYPE == 'public') {
         const { status, result } = data
         if(!status) return await message.sendMessage('not found')
         await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
-        let msg = '```'
+        let msg = ''
         msg +=  `NAME          :${result.judul}\n\n`
         msg +=  `DATE          :${result.rilis}\n\n`
         msg +=  `WEIGHT        :${result.ukuran}\n\n`
@@ -59,7 +59,7 @@ else if (Config.WORKTYPE == 'public') {
         msg += `VIDEO MP       :${result.videoPixel}\n\n`
         msg += `PIC            :${result.thumb}\n\n`
         msg += `BATTERY BRAND  :${result.pixel}\n\n`
-        msg += '```'
+        msg += ''
          return await message.client.sendMessage(message.jid, msg, MessageType.text, { quoted: message.data });
         });
     }
