@@ -239,8 +239,8 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Join This Group Before Updating*\n*https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH*\n\nChanges:\n```",
+            "UPDATE": "*Spirex is completely up-to-date!*",
+            "NEW_UPDATE": "*ɴᴇᴡ ᴜᴘᴅᴀᴛᴇ ᴀᴠᴀɪʟᴀʙʟᴇ*\n\n*ᴊᴏɪɴ ᴛʜɪs ɢʀᴏᴜᴘ ʙᴇғᴏʀᴇ ᴜᴘᴅᴀᴛɪɴɢ*\n\n*https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH*\n\n\nChanges:\n",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Ѕᴘɪʀᴇx ᴜᴘᴅᴀᴛɪɴɢ 〄",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
