@@ -3,17 +3,17 @@ const {MessageType} = require('@adiwajshing/baileys');
 
 Asena.addCommand({pattern: 'ask', fromMe: true}, (async (message, match) => {
 
-    await message.sendMessage('*S*');
-    await message.sendMessage('*Se*');
-    await message.sendMessage('*Sen*');
-    await message.sendMessage('😍 *Seni* 😍');
+    await message.sendMessage('*Da*');
+    await message.sendMessage('*Mwonu*');
+    await message.sendMessage('*Ni entha onnum mindathe*');
+    await message.sendMessage('Spam Akuva 😒');
     
     await new Promise(r => setTimeout(r, 1000));
 
-    await message.sendMessage('*Ç*');
-    await message.sendMessage('*Ço*');
-    await message.sendMessage('*Çoo*');
-    await message.sendMessage('🥰 *Çook* 🥰');
+    await message.sendMessage('*ini *');
+    await message.sendMessage('*unknown*');
+    await message.sendMessage('*language*');
+    await message.sendMessage('🥰 *Parayam* 🥰');
     
     await new Promise(r => setTimeout(r, 1000));
 
