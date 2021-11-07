@@ -48,8 +48,6 @@ Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dont
 
         msg +=  `TOTAL VIEWS :${result.views}\n\n`
 
-        msg +=  `DOWNLOADING LINK :${result.url}\n\n`
-
         msg += ' '
 
          return await message.client.sendMessage(message.jid,Buffer.from(img.data), MessageType.image, {mimetype: Mimetype.jpg , caption: msg })
