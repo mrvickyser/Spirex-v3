@@ -36,7 +36,7 @@ Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dont
 
         await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
 
-        let msg = '```'
+        let msg = ''
 
         msg +=  `TITLE :${result.title}\n\n`
 
@@ -50,7 +50,7 @@ Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dont
 
         msg +=  `DOWNLOADING LINK :${result.url}\n\n`
 
-        msg += '```'
+        msg += ' '
 
          return await message.client.sendMessage(message.jid,Buffer.from(img.data), MessageType.image, {mimetype: Mimetype.jpg , caption: msg })
 
