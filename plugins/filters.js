@@ -52,7 +52,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '919495944164@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/crasher.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
@@ -63,7 +63,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/ameen.m
         if (!!message.mention && message.mention[0] == '918281657461@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/abru.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['Achumon','abru','Ayn']
+const array = ['Achumon','abru','crasher','bot','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','Ayn']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -90,7 +90,7 @@ if(pattern.test(message.message)){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '919495944164@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/crasher.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
@@ -102,7 +102,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/ameen.m
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/abru.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['like','abru','rain']
+const array = ['like','abru','bot','crasher','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','rain']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
