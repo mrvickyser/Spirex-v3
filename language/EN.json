@@ -192,7 +192,7 @@
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
-            "NEED_TEXT_SONG": "*Bro Write a song name *\n*Example:* .song White crasher Comming",
+            "NEED_TEXT_SONG": "*Bro Write a song name*\n*Example:* .song White crasher Comming",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "Downloading",
             "NAMEY": "NAME",
