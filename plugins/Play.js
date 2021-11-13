@@ -6,7 +6,7 @@ const got = require('got');
 
 const Config = require('../config');
 
-const LOAD_ING = "*wait...*"
+const LOAD_ING = "*ǫᴜɪᴄᴋ ᴠɪᴇᴡ 〄*"
 
 const axios = require('axios')
 
@@ -14,7 +14,7 @@ const Axios = require('axios')
 
 Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dontAddCommandList: true }, async (message, match) => {
 
-		await message.client.sendMessage(message.jid, '*ʟᴏᴀᴅɪɴɢ ᴅᴇᴛᴀɪʟs...*' , MessageType.text, { quoted: message.data });
+		await message.client.sendMessage(message.jid, '*ʟᴏᴀᴅɪɴɢ ᴅᴇᴛᴀɪʟѕ...*' , MessageType.text, { quoted: message.data });
 
 	
 
@@ -39,8 +39,6 @@ Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dont
         let msg = ''
 
         msg +=  `TITLE :${result.title}\n\n`
-
-        msg +=  `THUMBNAIL :${result.thumb}\n\n`
 
         msg +=  `CHANNEL :${result.channel}\n\n`
 
