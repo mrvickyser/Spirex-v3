@@ -6,15 +6,15 @@ const got = require('got');
 
 const Config = require('../config');
 
-const LOAD_ING = ""
+const LOAD_ING = "*ǫᴜɪᴄᴋ ᴠɪᴇᴡ 〄*"
 
 const axios = require('axios')
 
 const Axios = require('axios')
 
-Asena.addCommand({pattern: 'song ?(.*)', fromMe: false, desc: 'play song' , dontAddCommandList: true }, async (message, match) => {
+Asena.addCommand({pattern: 'Song ?(.*)', fromMe: false, desc: 'play song' , dontAddCommandList: true }, async (message, match) => {
 
-		await message.client.sendMessage(message.jid, MessageType.text, { quoted: message.data });
+		await message.client.sendMessage(message.jid, '*ʟᴏᴀᴅɪɴɢ ᴅᴇᴛᴀɪʟѕ...*' , MessageType.text, { quoted: message.data });
 
 	
 
