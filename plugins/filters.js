@@ -63,7 +63,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/ameen.m
         if (!!message.mention && message.mention[0] == '918281657461@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/abru.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
-const array = ['Achumon','Babu','tentacion','Left','Adarsh','abru','rules','alive','crasher','bot','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','39','40','41','42','Ayn']
+const array = ['Achumon','Babu','tentacion','Left','Adarsh','abru','rules','alive','crasher','bot','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','Bts','Panipali']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -102,7 +102,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/ameen.m
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/abru.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['like','abru','rules','bot','Babu','tentacion','Left','Adarsh','alive','crasher','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','24','25','26','27','28','29','30','31','32','33','34','35','36','37','39','40','41','42','rain']
+const array = ['like','abru','rules','bot','Babu','tentacion','Left','Adarsh','alive','crasher','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','24','25','26','27','28','29','30','31','32','33','34','35','36','37','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','Bts','Panipali']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
